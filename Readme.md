@@ -45,7 +45,7 @@ In this challenge, the proposal for a solution was to make the automated tests p
 
 5. Change the connection port of your emulator to the port used in the backendp project
 
-`adb rever tcp:3333 tcp:3333`
+`adb reverse tcp:3333 tcp:3333`
 
 6. After being inside the cloned repository, download the dependencies using:
 
