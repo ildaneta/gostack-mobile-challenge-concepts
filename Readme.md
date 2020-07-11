@@ -49,9 +49,13 @@ In this challenge, the proposal for a solution was to make the automated tests p
 
 6. After being inside the cloned repository, download the dependencies using:
 
-`yarn android` or `yarn add`
+`yarn add`
 
-7. To run the tests, perform through the command:
+7. Start the project
+
+`yarn android`
+
+8. To run the tests, perform through the command:
 
 `yarn test`
 
